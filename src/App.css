@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+.listItem {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
