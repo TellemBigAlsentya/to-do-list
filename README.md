@@ -58,6 +58,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to modify and enhance this `README.md` file to suit your specific project requirements. Congratulations on completing your first React project! Keep up the great work!
